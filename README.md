@@ -7,6 +7,6 @@
 
 <h3>Preview:</h3>
 
-<img src="images/loading.gif">
+<img src="images/screen.gif">
 
-<p>Click <a href="#">here</a> to live demo!</p>
+<p>Click <a href="https://dreamy-sunburst-523674.netlify.app">here</a> to live demo!</p>
